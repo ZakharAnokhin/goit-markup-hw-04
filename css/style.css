@@ -550,6 +550,10 @@ body {
 
 }
 
+.footer .container {
+  display: flex;
+}
+
 .footer .logo {
   display: block;
   color: var(--secondary-text-color);
