@@ -571,6 +571,10 @@ body {
 
 }
 
+.social{
+  display: flex;
+}
+
 .social-title {
   margin-bottom: 12px;
 
