@@ -405,9 +405,7 @@ body {
 
 /* Customers styles */
 
-.customers {
-
-}
+.customers {}
 
 .customers-list {
   display: flex;
@@ -570,6 +568,10 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
 
+}
+
+.footer-logo {
+  display: block;
 }
 
 .social-title {
