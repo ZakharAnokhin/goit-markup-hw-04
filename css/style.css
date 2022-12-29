@@ -261,7 +261,7 @@ body {
   background-position: center;
   background-color: var(--dark);
   text-align: center;
-  max-width: 1440;
+  max-width: 1440px;
   margin: 0 auto;
 }
 
@@ -356,6 +356,8 @@ body {
 .position {
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+.position{
   margin-bottom: 12px;
 }
 
